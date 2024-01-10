@@ -7,12 +7,12 @@ to derive insights and suggest strategies for better segmentation based on the p
 # Context
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the
 same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect
-on the sale of their products. Your analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products. 
+on the sale of their products. The analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products. 
 
 # Key Questions 
 The stakeholders would like to be able to answer the following key questions:
 
-The sales team needs to know what the busiest days of the week and hours of the
+* The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
 times when there are fewer orders.
 
@@ -33,3 +33,9 @@ customers in their system and how their ordering behaviors differ. For example:
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products
     customers are ordering, and anything else you can think of.
+
+# Data Source
+
+Open-source data sets from Instacart are used with modifications (for the purpse of this project). 
+
+ 
